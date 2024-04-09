@@ -1,5 +1,11 @@
 # Amazon Lex PizzaPal Chatbot integrated using Slack 
 
+The following webpage is hosted on Amazon S3 and displays different sizes of pizza, pizza franchises, and the types of pizza available within each franchise:-
+
+![45](https://github.com/anvita-kumar30/Amazon_Lex_PizzaPalChatBot/assets/109106936/ea880c0d-8052-4e1c-96ec-12693219887a)
+
+
+
 ![46](https://github.com/anvita-kumar30/Amazon_Lex_PizzaPalChatBot/assets/109106936/61e3f2e7-7ad4-416b-819d-f194d3e753bb)
 
 ![47](https://github.com/anvita-kumar30/Amazon_Lex_PizzaPalChatBot/assets/109106936/ccb555c7-6edf-4cc9-8db9-b60cf39f6734)
